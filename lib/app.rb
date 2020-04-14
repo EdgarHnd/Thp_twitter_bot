@@ -14,4 +14,3 @@ end
  def login_twitter
     return client
 end
-''
